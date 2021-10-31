@@ -12,7 +12,7 @@ public class LRUCacheWithGuava {
 
 
     public LRUCacheWithGuava(){
-
+        buildCache();
     }
 
     private void buildCache(){
